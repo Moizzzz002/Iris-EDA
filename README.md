@@ -30,4 +30,4 @@ This project performs an Exploratory Data Analysis (EDA) on the **Iris dataset**
 2. **Local Setup**:
    - Clone this repository:
      ```bash
-     git clone https://github.com/your-username/Iris-EDA.git
+     git clone https://github.com/Moizzzz002/Iris-EDA.git
