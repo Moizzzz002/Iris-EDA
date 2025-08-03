@@ -25,7 +25,7 @@ This project performs an Exploratory Data Analysis (EDA) on the **Iris dataset**
 1. **Open in Google Colab**:
    - Click the badge below to open the notebook directly in Google Colab:
      [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Iris-EDA/blob/main/Iris_EDA.ipynb)
-   - Replace `your-username` in the link with your actual GitHub username.
+  
 
 2. **Local Setup**:
    - Clone this repository:
